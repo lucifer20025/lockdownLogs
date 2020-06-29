@@ -31,6 +31,11 @@
 - I still am not quite sure about what I am **supposed/meant** to do with my life?
   - I am considering becoming a math professor but spending **another 10 years** studying is making me hesitate (Also the **low income**)
   - There's always the option of engineering but I know that engineering colleges are real hell-holes
+<<<<<<< HEAD
+=======
+  - As in the famous words of Woody Allen
+  - > 80% of success is just showing up.
+>>>>>>> a68a40fbb6a937873d7fb25b4349c98103a85eeb
   - So I guess I'll keep at it (~~But I'm not too sure what I'm supposed write in these logs~~)
   <!-- That's enough for today will add to this  -->
 
