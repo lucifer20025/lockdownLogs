@@ -1,11 +1,10 @@
 # lockdownLogs
 
-- Table of contents
-  - [Why does this exist?](#about)
-  - [Future log](#future-log)
-  - [Additional Notes](#notes)
+## Table of contents
 
----
+- [Why does this exist?](#about)
+- [Future log](#future-log)
+- [Additional Notes](#notes)
 
 ## <a name="about">Why does this exist?</a>
 
@@ -15,8 +14,6 @@
   - This may also provide me with catharsis ~~later?~~ in the future
   - This always helps practice typing
   - Anyway, bottom line is that it gives me something to do
-
----
 
 ## <a name="future-log">Future log</a>
 
@@ -31,8 +28,6 @@
   - So I guess I'll keep at it (~~But I'm not too sure what I'm supposed write in these logs~~)
   <!-- That's enough for today will add to this  -->
 
----
-
 ## <a name="notes">Additional Notes</a>
 
 - I intend for this to be chronicling my journey through this new world under lockdown
@@ -40,5 +35,3 @@
   - _Another sidenote : although lockdown has been lifted, **Life will never quite be the same anymore**_
 - It might just end up being a dud not really something like what I fantasized
 - I envisioned of these logs as a kind of bullet journal(not really though)
-
----
