@@ -4,3 +4,5 @@
 - [June 27th](27th.md)
 - [June 28th](28th.md)
 - [June 29th](29th.md)
+
+[**_Go back to main menu_**](../README.md)
