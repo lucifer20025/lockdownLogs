@@ -1,6 +1,13 @@
 # lockdownLogs
 
-## Why does this exist?
+- Table of contents
+  - [Why does this exist?](#about)
+  - [Future log](#future-log)
+  - [Additional Notes](#notes)
+
+---
+
+## <a name="about">Why does this exist?</a>
 
 - This exist for multiple reasons including but not limited to:
   - This helps me track my ~~life~~ **_studies_**
@@ -11,17 +18,7 @@
 
 ---
 
-## Additional Notes
-
-- I intend for this to be chronicling my journey through this new world under lockdown
-  - _Sidenote : my logs only started after lockdown where I live as been lifted for more than 3 weeks_
-  - _Another sidenote : although lockdown has been lifted, **Life will never quite be the same anymore**_
-- It might just end up being a dud not really something like what I fantasized
-- I envisioned of these logs as a kind of bullet journal(not really though)
-
----
-
-## Future log
+## <a name="future-log">Future log</a>
 
 - _Here's what's to come for me in the near future goes_
 - Prolonged stay at home(Self Quarantine)
@@ -33,5 +30,15 @@
   - There's always the option of engineering but I know that engineering colleges are real hell-holesgit
   - So I guess I'll keep at it (~~But I'm not too sure what I'm supposed write in these logs~~)
   <!-- That's enough for today will add to this  -->
+
+---
+
+## <a name="notes">Additional Notes</a>
+
+- I intend for this to be chronicling my journey through this new world under lockdown
+  - _Sidenote : my logs only started after lockdown where I live as been lifted for more than 3 weeks_
+  - _Another sidenote : although lockdown has been lifted, **Life will never quite be the same anymore**_
+- It might just end up being a dud not really something like what I fantasized
+- I envisioned of these logs as a kind of bullet journal(not really though)
 
 ---
