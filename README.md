@@ -5,9 +5,11 @@
 - [Why does this exist?](#about)
 - [Future log](#future-log)
 - [Additional Notes](#notes)
-- Logs
-  - [June 2020](june2020/index.md)
-  - [July 2020](july2020/index.md)
+
+## Log Menu
+
+- [June 2020](june2020/index.md)
+- [July 2020](july2020/index.md)
 
 ## <a name="about">Why does this exist?</a>
 
