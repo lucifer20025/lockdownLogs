@@ -36,7 +36,7 @@
 ## <a name="notes">Additional Notes</a>
 
 - I intend for this to be chronicling my journey through this new world under lockdown
-  - _Sidenote : my logs only started after lockdown where I live as been lifted for more than 3 weeks_
+  - _Sidenote : my logs only started after lockdown where I live has been lifted for more than 3 weeks_
   - _Another sidenote : although lockdown has been lifted, **Life will never quite be the same anymore**_
 - It might just end up being a dud not really something like what I fantasized
 - I envisioned of these logs as a kind of bullet journal(not really though)
