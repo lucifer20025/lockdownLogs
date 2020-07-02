@@ -1,5 +1,6 @@
 # Days logged in July
 
 - [July 1st](1st.md)
+- [July 2nd](2nd.md)
 
 [**_Go back to main menu_**](../README.md)
