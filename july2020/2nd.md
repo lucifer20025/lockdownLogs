@@ -1,5 +1,7 @@
 # lockdownLogs : July 2nd
 
+<!-- ======================= -->
+
 1. Woke up around 7:30 P.M.
 2. Didn't do much studying today.
 3. I was to distracted by bulk-renaming in ranger

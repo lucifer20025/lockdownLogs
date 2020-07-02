@@ -29,7 +29,7 @@
   - Which doesn't really help me because the exam-date have become a shifting goal post
 - I still am not quite sure about what I am **supposed/meant** to do with my life?
   - I am considering becoming a math professor but spending **another 10 years** studying is making me hesitate (Also the **low income**)
-  - There's always the option of engineering but I know that engineering colleges are real hell-holesgit
+  - There's always the option of engineering but I know that engineering colleges are real hell-holes
   - So I guess I'll keep at it (~~But I'm not too sure what I'm supposed write in these logs~~)
   <!-- That's enough for today will add to this  -->
 
