@@ -40,3 +40,5 @@
   - _Another sidenote : although lockdown has been lifted, **Life will never quite be the same anymore**_
 - It might just end up being a dud not really something like what I fantasized
 - I envisioned of these logs as a kind of bullet journal(not really though)
+- I have been logging for a few days now, but I find not a lot remarkable enough to log.
+- I suppose I can do a better job.
