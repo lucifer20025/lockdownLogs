@@ -42,3 +42,9 @@
 - I envisioned of these logs as a kind of bullet journal(not really though)
 - I have been logging for a few days now, but I find not a lot remarkable enough to log.
 - I suppose I can do a better job.
+
+## A sample taken from june 27th
+
+![sample](img/sample.png)
+
+**Used polacode for the img**
