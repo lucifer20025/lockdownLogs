@@ -11,6 +11,7 @@
 5. _Today's also America's Independence day_(~~It doesn't really matter to me~~)
 6. Fin!
 
-[**_Go back to main menu_**](../README.md)
+- [**_Go back to main menu_**](../README.md)
+- [**_Go back to monthly index_**](index.md)
 
 ---
