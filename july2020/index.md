@@ -5,5 +5,6 @@
 - [July 3rd](3rd.md)
 - [July 4th](4th.md)
 - [July 5th](5th.md)
+- [July 7th](7th.md)
 
 [**_Go back to main menu_**](../README.md)
