@@ -45,6 +45,6 @@
 
 ## A sample taken from june 27th
 
-![sample](img/sample.png)
+![sample](img/code.png)
 
 **Used polacode for the img**
