@@ -25,6 +25,7 @@
 - _Here's what's to come for me in the near future goes_
 - Prolonged stay at home(Self Quarantine)
 - I will be graduating from high school quite soon (And I'm not at all ready to be an adult)
+- Sidenote: I'm mostly done with school, only the rubber stamp(the certificate) is left
 - My various entrance exams ~~will~~ might be held soon (COVID-19 has put a real damper on it, though)
   - Which doesn't really help me because the exam-date have become a shifting goal post
 - I still am not quite sure about what I am **supposed/meant** to do with my life?
@@ -43,6 +44,9 @@
 - I have been logging for a few days now, but I find not a lot remarkable enough to log.
 - I suppose I can do a better job.
 - I have been learning vim
+- I have made vim almost like vscode 
+  - I can open multiple files in tabs
+  - I will try to write today's log completely in vim (today is 10th july)
 - I also have switched to linux
   - **Distro : Manjaro(xfce)**
   - **Terminal emulator : alacritty**

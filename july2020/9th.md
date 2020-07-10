@@ -9,8 +9,10 @@
    2. alacritty as my terminal emulator
    3. powerlevel10k as my theme
    4. I'm currently typing in vim
-6. I like vim but I'm really slow (_for now_)
-7. Fin!
+6. Sidenote: I watched spider-man homecoming on this day 3 years ago(9th July 2017)
+7. I went to watch it with Parag, I really liked the movie
+8. I like vim but I'm really slow (_for now_)
+9. Fin!
 
 - [**_Go back to main menu_**](../README.md)
 - [**_Go to monthly index_**](index.md)
