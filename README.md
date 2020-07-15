@@ -44,7 +44,7 @@
 - I have been logging for a few days now, but I find not a lot remarkable enough to log.
 - I suppose I can do a better job.
 - I have been learning vim
-- I have made vim almost like vscode 
+- I have made vim almost like vscode
   - I can open multiple files in tabs
   - I will try to write today's log completely in vim (today is 10th july)
 - I also have switched to linux
@@ -56,3 +56,4 @@
 ![sample](img/code.png)
 
 **Used polacode for the img**
+**Total days missed : _5_**
