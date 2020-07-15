@@ -4,6 +4,7 @@
 
 - [Why does this exist?](#about)
 - [Future log](#future-log)
+- [Things to do](#task-list)
 - [Additional Notes](#notes)
 
 ## Log Menu
@@ -34,6 +35,12 @@
   - So I guess I'll keep at it (~~But I'm not too sure what I'm supposed write in these logs~~)
   <!-- That's enough for today will add to this  -->
 
+## <a name="task-list">Things to do</a>
+
+- [ ] finish learning javascript
+- [ ] do cool stuff with python
+- [ ] not mention survive the pandemic
+
 ## <a name="notes">Additional Notes</a>
 
 - I intend for this to be chronicling my journey through this new world under lockdown
@@ -50,6 +57,7 @@
 - I also have switched to linux
   - **Distro : Manjaro(xfce)**
   - **Terminal emulator : alacritty**
+- **Total days missed : _5_**
 
 ## A sample taken from june 27th
 
@@ -57,4 +65,3 @@
 
 **Used polacode for the img**
 
-**Total days missed : _5_**
