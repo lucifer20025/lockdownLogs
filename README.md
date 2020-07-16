@@ -5,6 +5,7 @@
 - [Why does this exist?](#about)
 - [Future log](#future-log)
 - [Things to do](#task-list)
+- [Things I have done so far](#done-list)
 - [Additional Notes](#notes)
 
 ## Log Menu
@@ -15,7 +16,8 @@
 ## <a name="about">Why does this exist?</a>
 
 - This exist for multiple reasons including but not limited to:
-  - This helps me track my ~~life~~ **_studies_**
+  - This basically gives an outlet for my internal ramblings
+  - This helps me track my ~~life~~ **_~~studies~~_**
   - This also makes me practice markdown (_which is great!_)
   - This may also provide me with catharsis ~~later?~~ in the future
   - This always helps practice typing
@@ -25,29 +27,24 @@
 
 - _Here's what's to come for me in the near future goes_
 - Prolonged stay at home(Self Quarantine)
-- I will be graduating from high school quite soon (And I'm not at all
-ready to be an adult)
-- Sidenote: I'm mostly done with school, only the rubber stamp(the 
-certificate) is left
-- My various entrance exams ~~will~~ might be held soon (COVID-19 has 
-put a real damper on it, though)
-  - Which doesn't really help me because the exam-date have become a 
-  shifting goal post
-- I still am not quite sure about what I am **supposed/meant** to do 
-with my life?
-  - I am considering becoming a math professor but spending **another 
-  10 years** studying is making me hesitate (Also the **low income**)
-  - There's always the option of engineering but I know that engineering 
-  colleges are real hell-holes
-  - So I guess I'll keep at it (~~But I'm not too sure what I'm 
-  supposed write in these logs~~)
-  <!-- That's enough for today will add to this  -->
+- New updates are here:
+  - CBSE board results are here, I got 91% 
+  - Most engineering entrance exams have been postponed for atleast 2 months
+- Although, currently there is no national lockdown but I'll still stay most at
+home for the foreseeable future
+- I don't even know if I'll get to go to a college this year
+
 
 ## <a name="task-list">Things to do</a>
 
 - [ ] finish learning javascript
 - [ ] do cool stuff with python
 - [ ] not mention survive the pandemic
+
+## <a name="done-list">Things I have done so far</a>
+
+- [x] learn basics(and more) of vim
+- [x] switched to linux
 
 ## <a name="notes">Additional Notes</a>
 

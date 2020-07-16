@@ -12,6 +12,8 @@
 - [July 10th](10th.md)
 - [July 11th](11th.md)
 - [July 14th](14th.md)
+- [July 15th](15th.md)
+- [July 16th](16th.md)
 
 ## Days Missed
 
