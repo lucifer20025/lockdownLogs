@@ -9,8 +9,10 @@
    2. I had a lot of setup to do
    3. Some of it spilled over to today
 4. But now everything's setup just the way I want.
-5. I have been haunted by thought about jee cancellation everyday for the past week
-6. It really been a constant source of anxiety, rage and other negative emotions
+5. I have been haunted by thought about jee cancellation everyday for the 
+past week
+6. It really been a constant source of anxiety, rage and other negative 
+emotions
 7. Fin!
 
 [**_Go back to main menu_**](../README.md)

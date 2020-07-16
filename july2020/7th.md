@@ -8,7 +8,8 @@
    5. Anyway, I'll try and stick with pop os for now
 2. So the entire day went by just setting up my pc
 3. I went outside for bit (to buy some groceries)
-4. I haven't yet customized my terminal but, I'm writing this before that so that I don't miss today's log
+4. I haven't yet customized my terminal but, I'm writing this before 
+that so that I don't miss today's log
 5. Fin!
 
 - [**_Go back to main menu_**](../README.md)
