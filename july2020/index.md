@@ -15,6 +15,7 @@
 - [July 15th](15th.md)
 - [July 16th](16th.md)
 - [July 17th](17th.md)
+- [July 19th](19th.md)
 
 ## Days Missed
 
