@@ -66,7 +66,7 @@ enough to log.
 - I also have switched to linux
   - **Distro : Manjaro(xfce)**
   - **Terminal emulator : alacritty**
-- **Total days missed : _5_**
+- **Total days missed : _6_**
 
 ## A sample taken from june 27th
 
